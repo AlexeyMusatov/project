@@ -1,0 +1,21 @@
+body{
+background-color: red;
+}
+
+div {
+background-color: cyan;
+width: 800px;
+height: 500px;
+margin: auto;
+overflow: auto;
+}
+
+#blue{
+ color:  blue;
+}
+form{
+background-color: green;
+border-color: greenyellow;
+align:center;
+}
+
