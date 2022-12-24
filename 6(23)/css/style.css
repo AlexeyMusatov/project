@@ -1,0 +1,20 @@
+#carouselExampleIndicators{
+    height: 400px;
+    width: 50%;
+    margin: auto;
+}
+.kaktuses{
+    background-color: rgb(200,200,200);
+    height: 400px;
+}
+.wrap{
+    justify-content: space-between;
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+.col-sm-3 li{
+list-style-type: none;
+}
+.text-center{
+    margin: 20px;
+}
